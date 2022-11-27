@@ -5,7 +5,7 @@
   <meta  http-equiv= "X-UA-Compatible"  content= "IE=edge" >
   <meta  name= "viewport"  content= "width=device-width, initial-scale=1">
   <!--上述3個meta標籤*必須*放在最前面，任何其他內容都*必須*跟隨其後！-->
-  <title> 新興國中 </title>
+  <title> 修改 </title>
 
   <!-- Bootstrap -->
   <link  href= "css/bootstrap.min.css"  rel= "stylesheet" >
